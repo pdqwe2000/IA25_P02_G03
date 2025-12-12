@@ -37,14 +37,8 @@ O notebook necessita o upload prévio do arquivo de dados de entrada (`athlete_e
 3.  Execute a célula de instalação.
 4.  Execute as células subsequentes para carregar os dados e construir o modelo.
 
-## 🛠️ Estrutura e Dados
-
-### Domínio do Problema
-
-
-### Estruturas de Dados Carregadas
-
-
+### Conclusão
+Este dataset preparado (`country_performance`) pode agora ser usado para treinar modelos de Regressão Linear ou Random Forest Regressors, usando features como o histórico de medalhas, tamanho da delegação (que pode ser calculado do dataset original) e década.
 
 ## 🧑‍💻 Autor
 
