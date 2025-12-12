@@ -12,8 +12,8 @@ O projeto é desenvolvido em Python e utiliza a seguinte biblioteca:
 | Tecnologia | Descrição |
 | :--- | :--- |
 | **Python** | Linguagem de programação principal. |
-| **`matplotlib`** | Biblioteca utilizada para modelar e resolver o problema de Programação por Restrições (CSP). |
-| **`seaborn`** | Ambiente de desenvolvimento e execução do código. |
+| **`matplotlib`** | Biblioteca utilizada visualizações interativas no python. |
+| **`seaborn`** |Para visualização estatistica do matplotlib. |
 | **Jupyter/Colab** | Ambiente de desenvolvimento e execução do código. |
 
 ## 🚀 Como Executar o Projeto
