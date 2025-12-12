@@ -12,7 +12,7 @@ O projeto é desenvolvido em Python e utiliza a seguinte biblioteca:
 | Tecnologia | Descrição |
 | :--- | :--- |
 | **Python** | Linguagem de programação principal. |
-| **`matplotlib`** | Biblioteca utilizada visualizações interativas no python. |
+| **`matplotlib`** | Biblioteca utilizada para visualizações interativas no python. |
 | **`seaborn`** |Para visualização estatistica do matplotlib. |
 | **Jupyter/Colab** | Ambiente de desenvolvimento e execução do código. |
 
@@ -30,11 +30,11 @@ A primeira célula do notebook instala automaticamente a biblioteca necessária:
 
 ## 🚀 Carregamento de Dados
 
-O notebook solicita o upload do arquivo de dados de entrada (`athlete_events.csv` ou similar) através da função `files.upload()`.
+O notebook necessita o upload prévio do arquivo de dados de entrada (`athlete_events.csv` ou similar)`.
 
-1.  Abra o arquivo `IA_P01_G03.ipynb`.
-2.  Execute a célula de instalação.
-3.  Quando solicitado, carregue o arquivo de dados.
+1.  Carregar arquivo `athlete_events.csv`
+2.  Abra o arquivo `IA_P02_G03.ipynb`.
+3.  Execute a célula de instalação.
 4.  Execute as células subsequentes para carregar os dados e construir o modelo.
 
 ## 🛠️ Estrutura e Dados
